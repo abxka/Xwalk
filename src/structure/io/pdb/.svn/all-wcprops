@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/182/trunk/Xwalk/src/structure/io/pdb
+END
+TarPDBreader.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/73/trunk/Xwalk/src/structure/io/pdb/TarPDBreader.java
+END
+GzipPDBreader.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/73/trunk/Xwalk/src/structure/io/pdb/GzipPDBreader.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/73/trunk/Xwalk/src/structure/io/pdb/package-info.java
+END
+PDBwriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/113/trunk/Xwalk/src/structure/io/pdb/PDBwriter.java
+END
+PDBreader.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/182/trunk/Xwalk/src/structure/io/pdb/PDBreader.java
+END

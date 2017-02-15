@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/109/trunk/Xwalk/doc/structure/io
+END
+GzipFileReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/109/trunk/Xwalk/doc/structure/io/GzipFileReader.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/109/trunk/Xwalk/doc/structure/io/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/109/trunk/Xwalk/doc/structure/io/package-tree.html
+END
+TarFileReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/109/trunk/Xwalk/doc/structure/io/TarFileReader.html
+END
+ReadFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/109/trunk/Xwalk/doc/structure/io/ReadFile.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/39/trunk/Xwalk/doc/structure/io/package-use.html
+END
+Commandline.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/109/trunk/Xwalk/doc/structure/io/Commandline.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/109/trunk/Xwalk/doc/structure/io/package-summary.html
+END
+WriteFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/109/trunk/Xwalk/doc/structure/io/WriteFile.html
+END

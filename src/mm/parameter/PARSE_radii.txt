@@ -1,0 +1,83 @@
+#################### PARSE aka PAULING ######################
+#############################################################
+# Reference: pdb2pqr_v1.4.0/dat/PARSE.DAT 
+#            and 
+#            http://pubs.acs.org/doi/pdf/10.1021/j100058a043
+#            and 
+#			 books.google.com/books?isbn=0801403332
+#############################################################
+#############################################################
+# FORMAT:  ##################################################
+# Element_name	vdW_radius
+#############################################################
+#
+#############################################################
+# ORGANIC PROTEIN ATOMS #####################################
+#############################################################
+CARBON	2.000
+NITROGEN	1.500
+OXYGEN	1.400
+SULPHUR	1.850
+HYDROGEN	1.000
+#
+#############################################################
+# ORGANIC SMALL MOLECULE ATOMS ##############################
+#############################################################
+# PARSE radii corresponds to PAULING vdW radius
+PHOSPHOR	1.190
+#
+#############################################################
+# METAL ATOMS ###############################################
+#############################################################
+# PARSE radii corresponds to PAULING univalent radius
+POTASSIUM	1.330
+# PARSE radii corresponds to PAULING univalent radius
+MAGNESIUM	0.820
+# PARSE radii corresponds to PAULING empirical crystal radius
+MANGANESE	0.800
+# PARSE radii corresponds to PAULING univalent radius
+CALCIUM	1.180
+# PARSE radii corresponds to PAULING empirical crystal radius
+IRON	0.650
+# PARSE radii corresponds to PAULING univalent radius
+SODIUM	0.950
+# PARSE radii corresponds to PAULING univalent radius
+ZINC	0.880
+# PARSE radii corresponds to PAULING univalent radius
+CADMIUM	1.140
+# PARSE radii corresponds to PAULING empirical crystal radius
+URANIUM	1.110
+# PARSE radii corresponds to PAULING empirical crystal radius
+LUTETIUM	0.93
+# PARSE radii corresponds to PAULING univalent radius
+COPPER	0.960
+# PARSE radii corresponds to PAULING univalent radius
+LITHIUM	0.600
+#
+#############################################################
+# NON-METAL ATOMS ###########################################
+#############################################################
+# PARSE radii corresponds to PAULING vdW radius
+IODINE	2.160
+# PARSE radii corresponds to PAULING univalent radius
+SELENIUM	0.660
+# PARSE radii corresponds to PAULING vdW radius
+FLUORINE	1.360
+# PARSE radii corresponds to PAULING vdW radius
+CHLORINE	1.810
+# PARSE radii corresponds to PAULING vdW radius
+BROMINE	1.950
+#
+#############################################################
+# METALLOIDS ################################################
+#############################################################
+# PARSE radii corresponds to PAULING univalent radius
+SILICON	0.650
+#
+#############################################################
+# SPECIAL ATOM TYPES ########################################
+#############################################################
+CARBON_AROMATIC	1.700
+HYDROGEN_ALIPHATIC	0.000
+
+

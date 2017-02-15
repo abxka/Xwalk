@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/78/trunk/Xwalk/doc/class-use/structure/io/class-use
+END
+GzipFileReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/41/trunk/Xwalk/doc/class-use/structure/io/class-use/GzipFileReader.html
+END
+TarFileReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/41/trunk/Xwalk/doc/class-use/structure/io/class-use/TarFileReader.html
+END
+ReadFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/41/trunk/Xwalk/doc/class-use/structure/io/class-use/ReadFile.html
+END
+Commandline.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/41/trunk/Xwalk/doc/class-use/structure/io/class-use/Commandline.html
+END
+WriteFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/41/trunk/Xwalk/doc/class-use/structure/io/class-use/WriteFile.html
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/179/trunk/Xwalk/src/structure/matter/protein
+END
+Surface.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/166/trunk/Xwalk/src/structure/matter/protein/Surface.java
+END
+AminoAcid.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/178/trunk/Xwalk/src/structure/matter/protein/AminoAcid.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/73/trunk/Xwalk/src/structure/matter/protein/package-info.java
+END
+PolyPeptide.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/179/trunk/Xwalk/src/structure/matter/protein/PolyPeptide.java
+END
+Digestion.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/trunk/Xwalk/src/structure/matter/protein/Digestion.java
+END
+DotSurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/174/trunk/Xwalk/src/structure/matter/protein/DotSurface.java
+END
+PolyPeptideList.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/179/trunk/Xwalk/src/structure/matter/protein/PolyPeptideList.java
+END

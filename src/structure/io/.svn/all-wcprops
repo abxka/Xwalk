@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/182/trunk/Xwalk/src/structure/io
+END
+Commandline.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/73/trunk/Xwalk/src/structure/io/Commandline.java
+END
+WriteFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/156/trunk/Xwalk/src/structure/io/WriteFile.java
+END
+GzipFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/73/trunk/Xwalk/src/structure/io/GzipFileReader.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/73/trunk/Xwalk/src/structure/io/package-info.java
+END
+TarFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/trunk/Xwalk/src/structure/io/TarFileReader.java
+END
+ReadFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/178/trunk/Xwalk/src/structure/io/ReadFile.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/181/trunk/Xwalk/src/xwalk/io
+END
+DistanceWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/184/trunk/Xwalk/src/xwalk/io/DistanceWriter.java
+END
+DistanceReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/165/trunk/Xwalk/src/xwalk/io/DistanceReader.java
+END
+CommandlineArguments.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/181/trunk/Xwalk/src/xwalk/io/CommandlineArguments.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/73/trunk/Xwalk/src/xwalk/io/package-info.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/179/trunk/Xwalk/src/structure/matter
+END
+AtomList.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/73/trunk/Xwalk/src/structure/matter/AtomList.java
+END
+MatterUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/175/trunk/Xwalk/src/structure/matter/MatterUtilities.java
+END
+AtomComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/Xwalk/src/structure/matter/AtomComparator.java
+END
+Molecule.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/157/trunk/Xwalk/src/structure/matter/Molecule.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/73/trunk/Xwalk/src/structure/matter/package-info.java
+END
+Bond.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/108/trunk/Xwalk/src/structure/matter/Bond.java
+END
+Atom.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/174/trunk/Xwalk/src/structure/matter/Atom.java
+END

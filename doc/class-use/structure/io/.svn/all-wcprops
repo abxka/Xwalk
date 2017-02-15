@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/78/trunk/Xwalk/doc/class-use/structure/io
+END
+GzipFileReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/41/trunk/Xwalk/doc/class-use/structure/io/GzipFileReader.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/41/trunk/Xwalk/doc/class-use/structure/io/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/41/trunk/Xwalk/doc/class-use/structure/io/package-tree.html
+END
+TarFileReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/41/trunk/Xwalk/doc/class-use/structure/io/TarFileReader.html
+END
+ReadFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/41/trunk/Xwalk/doc/class-use/structure/io/ReadFile.html
+END
+Commandline.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/41/trunk/Xwalk/doc/class-use/structure/io/Commandline.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/41/trunk/Xwalk/doc/class-use/structure/io/package-summary.html
+END
+WriteFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/41/trunk/Xwalk/doc/class-use/structure/io/WriteFile.html
+END
